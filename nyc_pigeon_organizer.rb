@@ -1,5 +1,4 @@
 def nyc_pigeon_organizer(data)
-  # write your code here!
   new_pigeon_hash = {}
   
   data.each do |color_gender_lives, value|
